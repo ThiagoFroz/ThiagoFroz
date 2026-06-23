@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou Thiago Froz 👋
 
-<!--
-**ThiagoFroz/ThiagoFroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor Java e Python
+📍 Manaus - AM
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- SQL
+- Git
+- Linux
+
+## Projetos
+
+### Copa 2026 Viewer
+Sistema para acompanhamento da Copa do Mundo 2026.
+
+### Controle Estoque Natura Avon
+Sistema web para gestão de estoque e vendas.
+
+### APS-S5
+Aplicação cliente-servidor utilizando sockets TCP/IP.
+
+## Contato
+
+LinkedIn:
+Email: thifroz@gmail.com
