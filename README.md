@@ -1,135 +1,17 @@
-# Olá, eu sou Thiago Froz 👋
+# Thiago Chaves dos Santos
 
-## Computer Science Student | Java Developer | Python Developer
+Estudante de Ciência da Computação na UNIP, em Manaus (AM), com formação técnica em Informática. Atualmente concentro meus estudos nas disciplinas da faculdade e aplico o que aprendo em projetos práticos. Estou explorando áreas diferentes da computação, sem uma especialização definida neste momento.
 
-🎓 Estudante de Ciência da Computação
+## Projetos
 
-💻 Desenvolvedor focado em Back-End, Automação e Desenvolvimento de Sistemas
+| Projeto | O que exploro |
+| --- | --- |
+| [Chat TCP/IP em Java](https://github.com/ThiagoFroz/APS-S5) | Sockets, comunicação cliente-servidor, threads e Swing em um trabalho acadêmico em equipe. |
+| [Controle de Estoque Natura & Avon](https://github.com/ThiagoFroz/controle-estoque-natura-avon) | Aplicação Flask com produtos, estoque, vendas e relatórios. |
+| [Copa 2026 Viewer](https://github.com/ThiagoFroz/Copa-2026-Viewer) | Programa de terminal em Python que consulta a API football-data.org. |
+| [Computação gráfica](https://github.com/ThiagoFroz/computa-o-gr-fica-) | Exercício de processamento de imagens com Python, filtros e segmentação. |
+| [Bot de suporte SEDEL](https://github.com/ThiagoFroz/bot-suporte-sedel) | Fork de um projeto de triagem de chamados com interface web, Node.js e SQLite. |
 
-📍 Manaus - Amazonas, Brasil
+## Estudos
 
----
-
-## Sobre mim
-
-Sou estudante de Ciência da Computação com formação técnica em Informática.
-
-Tenho experiência prática no desenvolvimento de aplicações utilizando Java, Python e SQL, participando de projetos acadêmicos e pessoais voltados para automação, sistemas web, arquitetura cliente-servidor e gerenciamento de dados.
-
-Busco oportunidades de estágio, desenvolvimento de software e projetos freelance para ampliar minha experiência profissional e contribuir com soluções tecnológicas de impacto.
-
----
-
-## Tecnologias
-
-### Linguagens
-
-- Java
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Ferramentas
-
-- Git
-- GitHub
-- Linux
-- VS Code
-- IntelliJ IDEA
-
-### Banco de Dados
-
-- MySQL
-- PostgreSQL
-
----
-
-## Principais Projetos
-
-### Controle de Estoque Natura & Avon
-
-Sistema web para gerenciamento de estoque, vendas, promoções e controle de pedidos.
-
-Tecnologias:
-- Python
-- SQL
-- HTML
-- CSS
-
----
-
-### Copa 2026 Viewer
-
-Aplicação para acompanhamento da Copa do Mundo 2026.
-
-Funcionalidades:
-- Consulta de jogos
-- Organização de partidas
-- Manipulação de dados esportivos
-
-Tecnologias:
-- Python
-
----
-
-### APS-S5
-
-Aplicação cliente-servidor desenvolvida em Java utilizando sockets TCP/IP.
-
-Conceitos aplicados:
-- Comunicação em rede
-- Concorrência
-- Arquitetura distribuída
-
-Tecnologias:
-- Java
-- TCP/IP
-
----
-
-### Bot de Suporte SEDEL
-
-Bot para automação de atendimento e triagem de chamados.
-
-Tecnologias:
-- HTML
-- JavaScript
-- Automação
-
----
-
-## Atualmente estudando
-
-- Estruturas de Dados
-- Banco de Dados
-- Engenharia de Software
-- APIs REST
-- Desenvolvimento Web
-- Computação em Nuvem
-
----
-
-## Objetivos para 2026
-
-- Conseguir estágio em desenvolvimento de software
-- Evoluir como desenvolvedor Back-End
-- Publicar projetos completos e documentados
-- Construir produtos próprios
-
----
-
-## Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoFroz&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFroz&layout=compact)
-
----
-
-## Contato
-
-GitHub: https://github.com/ThiagoFroz
-
-Email: thifroz@gmail.com
+Na graduação, estudo fundamentos como programação, redes, sistemas operacionais e processamento de imagens. Os repositórios documentam o contexto e a execução de cada projeto.
