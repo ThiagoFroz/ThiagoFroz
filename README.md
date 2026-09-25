@@ -9,7 +9,7 @@ Estudante de Ciência da Computação na UNIP, em Manaus (AM), com formação t�
 | [Chat TCP/IP em Java](https://github.com/ThiagoFroz/APS-S5) | Sockets, comunicação cliente-servidor, threads e Swing em um trabalho acadêmico em equipe. |
 | [Controle de Estoque Natura & Avon](https://github.com/ThiagoFroz/controle-estoque-natura-avon) | Aplicação Flask com produtos, estoque, vendas e relatórios. |
 | [Copa 2026 Viewer](https://github.com/ThiagoFroz/Copa-2026-Viewer) | Programa de terminal em Python que consulta a API football-data.org. |
-| [Computação gráfica](https://github.com/ThiagoFroz/computa-o-gr-fica-) | Exercício de processamento de imagens com Python, filtros e segmentação. |
+| [Computação gráfica](https://github.com/ThiagoFroz/computacao-grafica) | Exercício de processamento de imagens com Python, filtros e segmentação. |
 | [Bot de suporte SEDEL](https://github.com/ThiagoFroz/bot-suporte-sedel) | Fork de um projeto de triagem de chamados com interface web, Node.js e SQLite. |
 
 ## Estudos
